@@ -1,0 +1,18 @@
+[project]
+name = "BetterPythonLogger"
+version = "0.0.1"
+authors = [
+  { name="Scorval", email="thomas_cerqueira@yahoo.fr" },
+]
+description = "A better simple logger for python"
+readme = "README.md"
+requires-python = ">=3.12"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/thomascerqueira/BetterPythonLogger"
+Issues = "https://github.com/thomascerqueira/BetterPythonLogger/issues"
