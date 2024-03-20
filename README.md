@@ -51,3 +51,5 @@ This will add a stream handler and a file handler to the newly created logger
 
 
 If you don't want a file handler you can say noFile=True in the constructor or in the addLogger method
+
+If you don't use any name we will use the name used to create the class.
