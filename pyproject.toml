@@ -1,10 +1,10 @@
 [project]
 name = "BetterPythonLogger"
-version = "0.0.1"
+version = "1.1.0"
 authors = [
   { name="Scorval", email="thomas_cerqueira@yahoo.fr" },
 ]
-description = "A better simple logger for python"
+description = "A better, simple logger for python"
 readme = "README.md"
 requires-python = ">=3.12"
 classifiers = [
@@ -16,3 +16,4 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/thomascerqueira/BetterPythonLogger"
 Issues = "https://github.com/thomascerqueira/BetterPythonLogger/issues"
+Changelog = "https://github.com/thomascerqueira/BetterPythonLogger/blob/main/CHANGELOG.md"
