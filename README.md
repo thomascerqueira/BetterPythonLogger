@@ -12,7 +12,7 @@ logger = Logger.Logger("test")
 logger.debug("This is a debug message")
 ```
 
-![alt text](doc/usage.png)
+![alt text](https://github.com/thomascerqueira/BetterPythonLogger/raw/main/doc/usage.png)
 
 **By default this while create a new log file in the log directory**
 
