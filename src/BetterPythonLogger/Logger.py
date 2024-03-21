@@ -3,7 +3,7 @@ import os
 import sys
 from typing import Dict
 from logging import DEBUG, INFO, WARNING, ERROR, CRITICAL
-from src.BetterPythonLogger.NoLoggerException import NoLoggerException
+from .NoLoggerException import NoLoggerException
 
 
 class Logger():

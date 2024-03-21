@@ -1,3 +1,7 @@
+# [1.1.2] - 21/03/2024
+## Fixed
+- Bad import
+
 # [1.1.1] - 20/03/2024
 ## Fixed
 - Bad link image for readme
