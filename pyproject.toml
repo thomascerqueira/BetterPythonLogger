@@ -1,6 +1,6 @@
 [project]
 name = "BetterPythonLogger"
-version = "1.1.1"
+version = "1.1.2"
 authors = [
   { name="Scorval", email="thomas_cerqueira@yahoo.fr" },
 ]
