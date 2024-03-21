@@ -1,3 +1,7 @@
+# [1.1.3] - 21/03/2024
+## Feature
+- Auto Deploy with github actions
+
 # [1.1.2] - 21/03/2024
 ## Fixed
 - Bad import
